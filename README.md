@@ -22,7 +22,7 @@
 
 ## ⚡ Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/thoriq hanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thoriq hanif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thoriq-hanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thoriq hanif" height="30" width="40" /></a>
 <a href="https://instagram.com/thoriqmuhhr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thoriqmuhhr_" height="30" width="40" /></a>
 </p><br/>
 
