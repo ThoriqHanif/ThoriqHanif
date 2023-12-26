@@ -16,8 +16,7 @@
 
 - 📫 How to reach me **thoriqmuh123.alkapro@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/thoriq-hanif/](https://www.linkedin.com/in/thoriq-hanif/)](https://www.linkedin.com/in/thoriq-hanif/)
-
+- 📄 Know about my experiences [https://linkedin.com/in/thoriq-hanif](https://linkedin.com/in/thoriq-hanif)
 <br/>
 
 ## ⚡ Connect with Me
